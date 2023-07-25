@@ -1,7 +1,7 @@
 # 群峦传说：锻造
 ![GitHub Logo](https://github.com/gzzzzzz-247/TFC-FG/blob/main/images/tfc_logo.png)
 
-# Main
+# 前言
 群峦传说：重铸以群峦传说：次世代为主要模组的一款1.18forge大型冒险科技类整合包。
 整合包内也添加了大量优化游玩体验的模组。
 在群峦传说：重铸中体验超现实的生存体验。
