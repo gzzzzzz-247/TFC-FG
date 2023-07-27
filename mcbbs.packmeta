@@ -1,0 +1,1729 @@
+{
+  "manifestType": "minecraftModpack",
+  "manifestVersion": 2,
+  "name": "TFC：Forgged",
+  "version": "1.0",
+  "author": "Gzzzzzz-247",
+  "description": "",
+  "fileApi": "",
+  "url": "",
+  "forceUpdate": false,
+  "origin": [],
+  "addons": [
+    {
+      "id": "game",
+      "version": "1.18.2"
+    },
+    {
+      "id": "forge",
+      "version": "40.2.10"
+    }
+  ],
+  "libraries": [],
+  "files": [
+    {
+      "path": "config/aiimprovements-common.toml",
+      "hash": "38938944d157102e1651cf7bd07c11b9b022ee28",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/almostunified/debug.json",
+      "hash": "0c35288997ac2efa33c7af3a71f41124ae347cb5",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/almostunified/duplicates.json",
+      "hash": "51941477e43e95135de61831bad52225249993cd",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/almostunified/startup.json",
+      "hash": "9b304acbcc64a55182bae4cbb8a09b15f4c42fe0",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/almostunified/unify.json",
+      "hash": "e67abc370c814613a7eb6cc6deb3aa2cb80126cb",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/ambientsounds-client.json",
+      "hash": "3ae0bb64705d695a539097fc5421a76a2254ef31",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/attributefix.json",
+      "hash": "24d070b7d7026282f5054c8c6f4b033cfc3c74f6",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/betterfpsdist-common.toml",
+      "hash": "7c2759b3ff58164548676ba47e16bd95b68de0dd",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/bettertitlescreen-client.toml",
+      "hash": "f733cb4b05785c205ecb11645c2fbfeed95a9bd1",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/chat_heads.json5",
+      "hash": "18ba993f9521c17c528821b3c1c5449b5b3f67d0",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/coldsweat/client.toml",
+      "hash": "8c26fdfe17ecbba241b9fa894f0665293dbc3fcc",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/coldsweat/entity_settings.toml",
+      "hash": "7f63c8d460160d130a56f03849eb0c9b97e93f50",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/coldsweat/item_settings.toml",
+      "hash": "60c552bd4dc3e850c21d24c603dfcb44e9c5985a",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/coldsweat/main.toml",
+      "hash": "e7591484d7e913b46b17772188ea53d0f23cf892",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/coldsweat/world_settings.toml",
+      "hash": "176934cff2833e38c4c6d0001ba1aa7082b998cd",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/configured-client.toml",
+      "hash": "03918408024251d5d449f35c578602407329405a",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/cosmeticarmorreworked-client.toml",
+      "hash": "ae16b9d64e0ce6a136e8feb2533859729fb4daf9",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/cosmeticarmorreworked-common.toml",
+      "hash": "1c8e89f7f3f6a305ca79dd5b32511aea9c6a6f36",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/cull-less-leaves.json",
+      "hash": "62ff3023e189145815899d2d0b35b362fe5a9f5d",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/cuneiform-common.toml",
+      "hash": "99b2ed6ab4343c0d12a5d4bc36aaca8a35fbda38",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/curios-client.toml",
+      "hash": "ee5607552a851c19ef1d53c6e4bac5c307d10524",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/dummmmmmy-client.toml",
+      "hash": "81d8538a63fbbab5bb0343b7b8c69e14230e259d",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/dummmmmmy-common.toml",
+      "hash": "7034a7d97a39f5f8144a8b2d3f8b0a2f3013cfac",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/fancymenu/config.txt",
+      "hash": "6017f67dc7b119c6c5edfda1719127803b4bab98",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/fancymenu/customizablemenus.txt",
+      "hash": "e6ffb2badf3910d3152b706e0e369cc6f3a84c42",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/fancymenu/customization/.disabled/1.txt",
+      "hash": "b04011f03d554f1641ee6f821cdd5ea5cff959df",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/fancymenu/customization/mainmenu.txt",
+      "hash": "56563daee64858a0623a501defc7d99720a9ec2e",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/fancymenu/locals/de_de.local",
+      "hash": "98b50323485e91e3cc989364873878e42386c372",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/fancymenu/locals/en_us.local",
+      "hash": "ea7f22c6fa54909605b1d8cb4b45a1e0d8ca6a44",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/fancymenu/locals/pl_pl.local",
+      "hash": "6b065a9ef9287ac5c88775c78f247f607764ad12",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/fancymenu/locals/pt_br.local",
+      "hash": "ab64076d828f5700d3b7e5a5a312b76eaa3e1b16",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/fancymenu/locals/ru_ru.local",
+      "hash": "097bf0d21a71879b3a87508324bb11051c52ba1b",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/fancymenu/locals/uk_ua.local",
+      "hash": "58a9404fd84d78331701a6e81c34382bae55a7dd",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/fancymenu/locals/zh_cn.local",
+      "hash": "8e166ec05744eb904901dbedcd5b9374c1ba8f97",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/fancymenu/menu_identifiers.db",
+      "hash": "c4ffbfdf7e6bc0e711bd5ee8b59751d9b3c218b6",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/fancymenu/user_variables.db",
+      "hash": "3eeef87ee5e7b978339ad53e5e97deecc694b849",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/fastsuite.cfg",
+      "hash": "310e064c3dc297985cd12268d94f9565c8d17576",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/ferritecore-mixin.toml",
+      "hash": "60c10e465a884efec5ff7e791e124308f7a8a890",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/fml.toml",
+      "hash": "1ad7ebb5d9e84fcff98591f1cc422599a3102a5e",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/forge-client.toml",
+      "hash": "0164ae823f68ca46186a6c8cb8e4da25c8aec582",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/forge-common.toml",
+      "hash": "f6ccb9a7ef38d1b43ce98795fa156ca1c49637b7",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/functionalstorage/functionalstorage-client.toml",
+      "hash": "c468ad8baf6e965b6517ab65c854bed8b8729dd8",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/functionalstorage/functionalstorage-common.toml",
+      "hash": "686ee8460a701f0bf8a5f78f438422b31b06f020",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/InventoryHUD/curios.json",
+      "hash": "9af02002caff555a850a0b2d415de0b0e35f2217",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/inventoryhud-client.toml",
+      "hash": "c9134051b0ae9d06fe74eaabc4f74d3e3bd31ded",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/itlt-client.toml",
+      "hash": "57beed889d779ffeb473bbe662b02c11010a53ec",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/jade/jade.json",
+      "hash": "dbabb9d1cbb10a242cbb4cb9cd59d5cf7f4934c9",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/jade/jade_plugins.json",
+      "hash": "43470c80f823be5df78a2d10405f8ac159036fd6",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/jade-addons.toml",
+      "hash": "d5faa03017968c9923433012ab6a2cb8fa2a31b6",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/jei/ingredient-list-mod-sort-order.ini",
+      "hash": "ebe90aa28986a1515f407886ac85790c935a5d74",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/jei/ingredient-list-type-sort-order.ini",
+      "hash": "dc48be3ecfb2cd9c06a53712b3044f8123a6c06e",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/jei/jei-client.ini",
+      "hash": "00af3e4ed1777c1f259b1db6a7bbc0cb2c039c39",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/jei/recipe-category-sort-order.ini",
+      "hash": "2973feaaf07c7f3663f8f5acde7e07ffe8639580",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/jei-client.toml",
+      "hash": "44fbe0d956f831979fccf0cd2ab33f5165ad447c",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/konkrete/locals/de_de.local",
+      "hash": "02adaf2602f1ba03a9352db3d10a6fac3a02aea5",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/konkrete/locals/en_us.local",
+      "hash": "42badc338e767559db38a67bd3e8020a92000e56",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/konkrete/locals/pl_pl.local",
+      "hash": "adf2ded54b4952ca83af26a1217e2c5db8ac1429",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/konkrete/locals/pt_br.local",
+      "hash": "9c324fb4d33106366e6cbb5400c8c34f11539d34",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/longerlogintimes-common.toml",
+      "hash": "ee4410aab1363157e9a89832a0974d8d63abc445",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/lsp.json",
+      "hash": "e041903655a2f337fcf29ad9aadbf8c12c5ab2a1",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/memorysweep-common.toml",
+      "hash": "e13e93920d2dfe5e94266e1f6531333853e9a84d",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/ModernUI/bootstrap",
+      "hash": "b6589fc6ab0dc82cf12099d1c2d40ab994e8410c",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/ModernUI/client.toml",
+      "hash": "90ad1e0f45c189a2ef3992a9b944f4d025b27511",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/ModernUI/common.toml",
+      "hash": "5f56d3216bd8d445572bd96f29d8501982b55761",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/ModernUI/server.toml",
+      "hash": "ba8ab5a0280b953aa97435ff8946cbcbb2755a27",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/ModernUI/text.toml",
+      "hash": "0c67150d7652f69c22367566ea45f45c75dca053",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/MouseTweaks.cfg",
+      "hash": "651b3e4db2d430dc1da3566b2984b264061a6794",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/neat-client.toml",
+      "hash": "5088adc9627787a5bdaa2d26d0ab13ff9fe32561",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/oculus.properties",
+      "hash": "42dd3a575802eb6ffa965627929c6a8dea4c7fbf",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/advanced_options.json",
+      "hash": "965027c2fd865f2e3865fa3ad3a1283432c4c122",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/resources/群峦附属非官方版汉化包/assets/tfcambiental/lang/zh_cn.json",
+      "hash": "7968a58f33dfc9e9b0a51f59418758880edfcc66",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/resources/群峦附属非官方版汉化包/assets/tfchomestead/lang/zh_cn.json",
+      "hash": "3a3b1cee5b609369c4b64b5ce0a4bd3bd90c3353",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/resources/群峦附属非官方版汉化包/assets/tfc_decoration/lang/zh_cn.json",
+      "hash": "04b276ba32c2f3451c38b1e87ec74f97d051d555",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/resources/群峦附属非官方版汉化包/assets/waterflasks/lang/zh_cn.json",
+      "hash": "313bd3b8da0858352c6af315d0d069d527a531d7",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/resources/群峦附属非官方版汉化包/pack.mcmeta",
+      "hash": "12a45ff019dc888a2db645d602dba71ea6a8b851",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/openloader/resources/群峦附属非官方版汉化包/pack.png",
+      "hash": "4604b6e1a5283f0e4ab6e0b7f3ed8a51b3198a3f",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/opotato-common.toml",
+      "hash": "b6eafabb4610d10a937e764133d172e610528f77",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/opotato-mixins.properties",
+      "hash": "5bdbd92b8e4f33da266c2d094cf3a95914321f2c",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/patchouli-client.toml",
+      "hash": "4f798a816338871b91cb48f62c01eee454ab0e97",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/reforgium-renderer.properties",
+      "hash": "3cb0941bd71ff15bbc4f523d47fc44da4fd78dfb",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/rubidium-mixins.properties",
+      "hash": "5656ec2a84545a98f28a695a2c73d2e47da15860",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/rubidium-options.json",
+      "hash": "e721664d0d915b183feeb65314b7f7dab8384e30",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/rubidium_dynamic_lights.toml",
+      "hash": "3a1ffe3ccabf6d5461dad3c87568173ff53dce85",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/shouldersurfing.toml",
+      "hash": "a927e5a9ffe10a70a6bc1dabb54a04cd1410c2cd",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/sodium-extra-options.json",
+      "hash": "40755988276f7ee68f65742daed2be7c445a7499",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/sodium-extra.properties",
+      "hash": "e90b2514226a0624cf42112b42477f9872598b89",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/sophisticatedbackpacks-common.toml",
+      "hash": "300cb0348cbb41fb48bab6849802495881fc9b93",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/sophisticatedcore-client.toml",
+      "hash": "43a0ff8fb13ce9b713dd3cbb215e78a542f34012",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/supplementaries-client.toml",
+      "hash": "3041e5188d2a937cc26ab63eb30c1a91eb4e5203",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/supplementaries-common.toml",
+      "hash": "9c12a991cc3fecdfcfda9c1c4cbaea723b1e9649",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/supplementaries-registry.toml",
+      "hash": "d62cf5d9113dd9e652d11ffb37a3486bba455be7",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/tfc-client.toml",
+      "hash": "297772657080e5d99ce5163895decc09d09e358a",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/tfc-common.toml",
+      "hash": "1401c6995297e8cfbfd73c1427f478451b73ad11",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/tfcambiental-client.toml",
+      "hash": "5f6b6a05e6d08e928b44e9ec13eeaf51d722bf73",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/tfcambiental-common.toml",
+      "hash": "3b36768394ccbf41c0c993e2f7751affbb833b1f",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/tfchomestead-common.toml",
+      "hash": "b76b170633119f47e0289b1e6ca412833d810068",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/titanium/titanium-tags.toml",
+      "hash": "3b2f5a06c0d404a19e77fce6f9095c549b0b8a1a",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/titanium/titanium.toml",
+      "hash": "d87daa2590fc5fe1cf0814dd48adc50044ba7516",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/waterflasks-common.toml",
+      "hash": "4a5bae587ac3087a2ef21cd93c9693e7ee730c65",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/worldedit/worldedit.properties",
+      "hash": "825bfa0245796733948e39dbcd5af5334e067499",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/xaerominimap.txt",
+      "hash": "41c31b7de4155acd90618aefee80b3f542128fd2",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/xaerominimap_entities.json",
+      "hash": "a579f20e72ff6dd8553b9ba21aebf882b68da960",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/xaeropatreon.txt",
+      "hash": "80846d8687ebeab12e5d0d3a6579675d900cee5a",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/xaeroworldmap.txt",
+      "hash": "7b10d7ce56d4feb8107970835df8800a6e170191",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/block/example_block.png",
+      "hash": "87f5ec8c26493050fc83543af8d33f2d28a98766",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/example_item.png",
+      "hash": "d9912cb709ad496b10f19f8b2c66d1e419eb760c",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/client_scripts/script.js",
+      "hash": "dc1ef64bdacb3a600c87b627f1256c7b34260e0f",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/config/client.properties",
+      "hash": "dbeace07f138fd4c6a49ecab7df0626979caf08f",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/config/common.properties",
+      "hash": "6bfdcdf2691934d18670158125934aa48ec196b9",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/exported/tags/activity.txt",
+      "hash": "7e0754d7cba7e4e0d7d4830229ee52779e10a587",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/exported/tags/attribute.txt",
+      "hash": "f46ca21ca95ccb74a5ab15cebf4148376b7d7a40",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/exported/tags/blocks.txt",
+      "hash": "b2947fd9dff5d7a82abdfe3ea06a9ad9a413cb84",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/exported/tags/block_entity_type.txt",
+      "hash": "f46ca21ca95ccb74a5ab15cebf4148376b7d7a40",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/exported/tags/block_predicate_type.txt",
+      "hash": "7e0754d7cba7e4e0d7d4830229ee52779e10a587",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/exported/tags/chunk_status.txt",
+      "hash": "f46ca21ca95ccb74a5ab15cebf4148376b7d7a40",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/exported/tags/custom_stat.txt",
+      "hash": "f46ca21ca95ccb74a5ab15cebf4148376b7d7a40",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/exported/tags/data_serializers.txt",
+      "hash": "7e0754d7cba7e4e0d7d4830229ee52779e10a587",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/exported/tags/dimension_type.txt",
+      "hash": "f46ca21ca95ccb74a5ab15cebf4148376b7d7a40",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/exported/tags/enchantment.txt",
+      "hash": "f46ca21ca95ccb74a5ab15cebf4148376b7d7a40",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/exported/tags/entity_types.txt",
+      "hash": "b0def3b19dbeb2eb57aa0ff7db4a3908b358d9ee",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/exported/tags/float_provider_type.txt",
+      "hash": "7e0754d7cba7e4e0d7d4830229ee52779e10a587",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/exported/tags/fluids.txt",
+      "hash": "ae08ed833c06dec7bedaa3ad9d9a0aac4c1b6e90",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/exported/tags/forge/loot_modifier_serializers.txt",
+      "hash": "7e0754d7cba7e4e0d7d4830229ee52779e10a587",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/exported/tags/forge/world_types.txt",
+      "hash": "7e0754d7cba7e4e0d7d4830229ee52779e10a587",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/exported/tags/game_events.txt",
+      "hash": "70b56ab5d5e9b63393f8e7317ef571f6c694d487",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/exported/tags/height_provider_type.txt",
+      "hash": "7e0754d7cba7e4e0d7d4830229ee52779e10a587",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/exported/tags/int_provider_type.txt",
+      "hash": "7e0754d7cba7e4e0d7d4830229ee52779e10a587",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/exported/tags/items.txt",
+      "hash": "361ba33ffba5c21960e79141762827f488752959",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/exported/tags/loot_condition_type.txt",
+      "hash": "7e0754d7cba7e4e0d7d4830229ee52779e10a587",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/exported/tags/loot_function_type.txt",
+      "hash": "7e0754d7cba7e4e0d7d4830229ee52779e10a587",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/exported/tags/loot_nbt_provider_type.txt",
+      "hash": "7e0754d7cba7e4e0d7d4830229ee52779e10a587",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/exported/tags/loot_number_provider_type.txt",
+      "hash": "7e0754d7cba7e4e0d7d4830229ee52779e10a587",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/exported/tags/loot_pool_entry_type.txt",
+      "hash": "7e0754d7cba7e4e0d7d4830229ee52779e10a587",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/exported/tags/loot_score_provider_type.txt",
+      "hash": "7e0754d7cba7e4e0d7d4830229ee52779e10a587",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/exported/tags/memory_module_type.txt",
+      "hash": "7e0754d7cba7e4e0d7d4830229ee52779e10a587",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/exported/tags/menu.txt",
+      "hash": "f46ca21ca95ccb74a5ab15cebf4148376b7d7a40",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/exported/tags/mob_effect.txt",
+      "hash": "f46ca21ca95ccb74a5ab15cebf4148376b7d7a40",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/exported/tags/motive.txt",
+      "hash": "f46ca21ca95ccb74a5ab15cebf4148376b7d7a40",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/exported/tags/particle_type.txt",
+      "hash": "f46ca21ca95ccb74a5ab15cebf4148376b7d7a40",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/exported/tags/point_of_interest_type.txt",
+      "hash": "f46ca21ca95ccb74a5ab15cebf4148376b7d7a40",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/exported/tags/position_source_type.txt",
+      "hash": "f46ca21ca95ccb74a5ab15cebf4148376b7d7a40",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/exported/tags/pos_rule_test.txt",
+      "hash": "f46ca21ca95ccb74a5ab15cebf4148376b7d7a40",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/exported/tags/potion.txt",
+      "hash": "f46ca21ca95ccb74a5ab15cebf4148376b7d7a40",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/exported/tags/recipe_serializer.txt",
+      "hash": "f46ca21ca95ccb74a5ab15cebf4148376b7d7a40",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/exported/tags/recipe_type.txt",
+      "hash": "f46ca21ca95ccb74a5ab15cebf4148376b7d7a40",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/exported/tags/rule_test.txt",
+      "hash": "f46ca21ca95ccb74a5ab15cebf4148376b7d7a40",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/exported/tags/schedule.txt",
+      "hash": "7e0754d7cba7e4e0d7d4830229ee52779e10a587",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/exported/tags/sensor_type.txt",
+      "hash": "7e0754d7cba7e4e0d7d4830229ee52779e10a587",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/exported/tags/sound_event.txt",
+      "hash": "f46ca21ca95ccb74a5ab15cebf4148376b7d7a40",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/exported/tags/stat_type.txt",
+      "hash": "f46ca21ca95ccb74a5ab15cebf4148376b7d7a40",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/exported/tags/villager_profession.txt",
+      "hash": "f46ca21ca95ccb74a5ab15cebf4148376b7d7a40",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/exported/tags/villager_type.txt",
+      "hash": "f46ca21ca95ccb74a5ab15cebf4148376b7d7a40",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/exported/tags/worldgen/biome.txt",
+      "hash": "52a15e1b0bd5c35e8c427705b005a494da6480c8",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/exported/tags/worldgen/biome_source.txt",
+      "hash": "7e0754d7cba7e4e0d7d4830229ee52779e10a587",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/exported/tags/worldgen/block_state_provider_type.txt",
+      "hash": "7e0754d7cba7e4e0d7d4830229ee52779e10a587",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/exported/tags/worldgen/carver.txt",
+      "hash": "7e0754d7cba7e4e0d7d4830229ee52779e10a587",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/exported/tags/worldgen/chunk_generator.txt",
+      "hash": "7e0754d7cba7e4e0d7d4830229ee52779e10a587",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/exported/tags/worldgen/configured_carver.txt",
+      "hash": "f46ca21ca95ccb74a5ab15cebf4148376b7d7a40",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/exported/tags/worldgen/configured_feature.txt",
+      "hash": "b4ed08b19253e57645d7f8ba438b27a30e106982",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/exported/tags/worldgen/configured_structure_feature.txt",
+      "hash": "07c9cdd3dff4d838338c9ecd2f2d8590cef0c59f",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/exported/tags/worldgen/density_function.txt",
+      "hash": "f46ca21ca95ccb74a5ab15cebf4148376b7d7a40",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/exported/tags/worldgen/density_function_type.txt",
+      "hash": "7e0754d7cba7e4e0d7d4830229ee52779e10a587",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/exported/tags/worldgen/feature.txt",
+      "hash": "7e0754d7cba7e4e0d7d4830229ee52779e10a587",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/exported/tags/worldgen/feature_size_type.txt",
+      "hash": "7e0754d7cba7e4e0d7d4830229ee52779e10a587",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/exported/tags/worldgen/foliage_placer_type.txt",
+      "hash": "7e0754d7cba7e4e0d7d4830229ee52779e10a587",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/exported/tags/worldgen/material_condition.txt",
+      "hash": "7e0754d7cba7e4e0d7d4830229ee52779e10a587",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/exported/tags/worldgen/material_rule.txt",
+      "hash": "7e0754d7cba7e4e0d7d4830229ee52779e10a587",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/exported/tags/worldgen/noise.txt",
+      "hash": "f46ca21ca95ccb74a5ab15cebf4148376b7d7a40",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/exported/tags/worldgen/noise_settings.txt",
+      "hash": "f46ca21ca95ccb74a5ab15cebf4148376b7d7a40",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/exported/tags/worldgen/placed_feature.txt",
+      "hash": "f720a8b2852c798ad2a9d8f5de15a8d083441950",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/exported/tags/worldgen/placement_modifier_type.txt",
+      "hash": "7e0754d7cba7e4e0d7d4830229ee52779e10a587",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/exported/tags/worldgen/processor_list.txt",
+      "hash": "f46ca21ca95ccb74a5ab15cebf4148376b7d7a40",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/exported/tags/worldgen/structure_feature.txt",
+      "hash": "7e0754d7cba7e4e0d7d4830229ee52779e10a587",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/exported/tags/worldgen/structure_piece.txt",
+      "hash": "7e0754d7cba7e4e0d7d4830229ee52779e10a587",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/exported/tags/worldgen/structure_placement.txt",
+      "hash": "7e0754d7cba7e4e0d7d4830229ee52779e10a587",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/exported/tags/worldgen/structure_pool_element.txt",
+      "hash": "7e0754d7cba7e4e0d7d4830229ee52779e10a587",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/exported/tags/worldgen/structure_processor.txt",
+      "hash": "7e0754d7cba7e4e0d7d4830229ee52779e10a587",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/exported/tags/worldgen/structure_set.txt",
+      "hash": "f46ca21ca95ccb74a5ab15cebf4148376b7d7a40",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/exported/tags/worldgen/template_pool.txt",
+      "hash": "f46ca21ca95ccb74a5ab15cebf4148376b7d7a40",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/exported/tags/worldgen/tree_decorator_type.txt",
+      "hash": "7e0754d7cba7e4e0d7d4830229ee52779e10a587",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/exported/tags/worldgen/trunk_placer_type.txt",
+      "hash": "7e0754d7cba7e4e0d7d4830229ee52779e10a587",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/README.txt",
+      "hash": "a97d76f5c22bd01cd4f1107317ba5cb516b39d3c",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/server_scripts/script.js",
+      "hash": "dcb3c4794d34b624d6f7e214990d125068425363",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/startup_scripts/script.js",
+      "hash": "20b9df49a0095c3353cad28f446d64708a090e5a",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/2BetterTitleScreen-1.18-1.12.0.jar",
+      "hash": "f0266b1570392a7dc52cc1b19f235b90041f808f",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/add/almostunified-forge-1.18.2-0.3.10.jar",
+      "hash": "b2e52ea40aeed302827c686920a461ab55f2eaa4",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/add/CosmeticArmorReworked-1.18.2-v2a.jar",
+      "hash": "5c4cd13a521ed49128a73ff3fd00209d8c2ee966",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/add/functionalstorage-1.18.2-1.1.3.jar",
+      "hash": "2b29eb9613955eada35c5d3d9ede3ba37e737705",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/add/mcw-furniture-3.1.0-mc1.18.2forge.jar",
+      "hash": "df7356d7551147107dd4d7d46e38109d8d9fb7d6",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/add/mcw-roofs-2.2.4-mc1.18.2forge.jar",
+      "hash": "e8f67f9c9e0b1d00b1ff3da38f665d83d4f9aef1",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/add/MmmMmmMmmMmm-1.18.2-1.5.2.jar",
+      "hash": "3d67070a9d8eee8527e33027fa300e50432ab0b0",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/add/selene-1.18.2-1.17.9.jar",
+      "hash": "6e53cc0ab053dc82cdebe9747a548c6ff06c656f",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/add/sophisticatedbackpacks-1.18.2-3.18.57.888.jar",
+      "hash": "e056bbd3fcdcb6ddab5507f5a90561d15252d139",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/add/sophisticatedcore-1.18.2-0.5.80.376.jar",
+      "hash": "8eba69e28e27395966ac5a82d4dd1f50d03f3676",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/add/supplementaries-1.18.2-1.5.18.jar",
+      "hash": "77c92894d7482b71bd6489ba43355b6558a024d6",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/add/titanium-1.18.2-3.5.9-43.jar",
+      "hash": "0c527c49251777245bbcb8483c592b77cc0e5483",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/base/1AI-Improvements-1.18.2-0.5.2.jar",
+      "hash": "3f75bd844fa9ef364bd93605067ab60ac0e699f5",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/base/1alternate-current-mc1.18-1.2.1.jar",
+      "hash": "ded222f9714f823a063d26568f93a7975bf70c56",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/base/1antighost-1.18.1-forge39.0.9-1.1.2.jar",
+      "hash": "977eae52ae261a87046fc1ad89149b175a6c04d5",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/base/1asynclocator-1.18.2-1.1.0.jar",
+      "hash": "8f0f9a6a2058c7f70e8b28b0872091a076af3ec4",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/base/1AttributeFix-Forge-1.18.2-14.0.2.jar",
+      "hash": "33b1dc72bb681768c4faa603a73c26ebba833b41",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/base/1BeeFix-1.18-1.0.7.jar",
+      "hash": "7cd430f81e30d2f367d73adcc9ec6ceb334efde3",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/base/1cuneiform-1.18.2-1.3.5.jar",
+      "hash": "b6f557ab1f33e360da622a0bf526e3b5bd4008da",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/base/1FastSuite-1.18.2-3.0.2.jar",
+      "hash": "619808f9824a229344cd0914b7e6a651eb28625a",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/base/1ferritecore-4.2.2-forge.jar",
+      "hash": "e9e0e711de47112dc53e24dc008da1f598834c4f",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/base/1lazydfu-1.0-1.18+.jar",
+      "hash": "069f72997244b57b76c96ac86faa37b1838d52de",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/base/1letmedespawn-1.18.x-1.19.x-forge-1.0.3.jar",
+      "hash": "6fc0f6427045bfaa941a49da33ebc419c21d540d",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/base/1NoChatLagForge-1.1.0.jar",
+      "hash": "fd2bd2c5d613138beacdb7b140dc416eae7c0e6b",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/base/1opotato-1.18.2-1.1.0.jar",
+      "hash": "a72b8568fc1593e1be09a1db98990bb6d90385a9",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/base/1Placebo-1.18.2-6.6.7.jar",
+      "hash": "ae6e65b789291c7dbd8872523e82887722efb00c",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/base/1saturn-mc1.18.2-0.0.4.jar",
+      "hash": "61931c2b01d58210363dca970995dc0df9445ff3",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/base/1spark-1.9.11-forge.jar",
+      "hash": "27561bd5c57fddef747de6fa27436032f219e641",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/base/1starlight-1.0.2+forge.546ae87.jar",
+      "hash": "c7dde83f5fbc864d85842c74a4433a8a5c0f15b7",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/base/2AmbientSounds_FORGE_v5.0.16_mc1.18.2.jar",
+      "hash": "3067b6626fa883e93e24af43de35388984cb40a1",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/base/2chat_heads-0.6.1-forge-1.18.2.jar",
+      "hash": "e6cca5e31d4a3d04c8a1417aecf114d674cadf93",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/base/2CreativeCore_FORGE_v2.6.15_mc1.18.2.jar",
+      "hash": "98ed791484723ef8481244266d8e8ca840ada810",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/base/2CullLessLeaves-Reforged-1.18.2-1.0.5.jar",
+      "hash": "376f04c15f9d7e6d70df6b63b5ea9bc7b39a7b4d",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/base/2CustomSkinLoader_ForgeActive-14.14.jar",
+      "hash": "633bc930d0555d91359fb5884a4a93eef68397e0",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/base/2Entity_Collision_FPS_Fix-forge-1.18.2-1.0.0.jar",
+      "hash": "c816bd18177d52a96a59f6e51072ff1847d0f971",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/base/2invhud.forge.1.18.2-3.4.12.jar",
+      "hash": "8eaec7f686b5ebb8424066920dfe3a25b41f6cef",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/base/2itlt-1.18.x-2.1.5.jar",
+      "hash": "4ea83123370781d329f5891d19cb497e236e0a6e",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/base/2Jade-1.18.2-forge-5.2.6.jar",
+      "hash": "9db36c71576ee72933c17b1338fda7a273a751b6",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/base/2lanserverproperties-1.8-forge.jar",
+      "hash": "0bc6267101fe07b2b812f84edc383da3381e04d4",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/base/2ModernUI.jar",
+      "hash": "1329025aa058ec5f6dc5ec68271db87ec2c7ca22",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/base/2MouseTweaks-forge-mc1.18-2.21.jar",
+      "hash": "dc64a2a0df9b205114768a89482fe57ffac54143",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/base/2Neat-1.8-31.jar",
+      "hash": "dd69bf6650c00654007982b09523deee3aa7861a",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/base/2oculus-mc1.18.2-1.6.4.jar",
+      "hash": "9bafc5d3069d533c49a19b6f5bdb53637a1d47c2",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/base/2Quit-Forge-1.18.2-1.0.1.jar",
+      "hash": "2668097d3a6c710c9e99ea5c8723dda5e639d5a8",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/base/2reforgium-1.18.2-1.0.12a.jar",
+      "hash": "75530289d19191dcc80ced1b63ce7fca360f32ae",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/base/2rubidium-0.5.6.jar",
+      "hash": "1ce63fa6642a71b2e1b175bbdc0f61ac12669a67",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/base/2rubidium-extra-0.4.18+mc1.18.2-build.86.jar",
+      "hash": "e4ce5acae6c927f844facd195b796efa09fdfe9a",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/base/2rubidium_dynamiclights-1.18.2_v1.3.3-i18n.jar",
+      "hash": "f6ab9bce822ba39d8aae9a91e7f0baa6d236c9d3",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/base/2ShoulderSurfing-Forge-1.18.2-2.3.0.jar",
+      "hash": "4c8330608fe8326edb9ed4627511f84be1ddd5a2",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/base/2TextruesRubidiumOptions-1.0.5-mc1.18.2.jar",
+      "hash": "42f15a885b51f1d1f8390aa0638ccdf67ea2fb51",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/base/2XaerosWorldMap_1.30.1_Forge_1.18.2.jar",
+      "hash": "0d48c339de5a9fe45d65d4be9bdcc7f2342d6538",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/base/2Xaeros_Minimap_23.4.1_Forge_1.18.2.jar",
+      "hash": "a3da93a344671c5e04ffcad9641c257af059bbbf",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/base/3architectury-4.11.93-forge.jar",
+      "hash": "745f674393a9d5827ee92fcd5c6c350c9aeeed97",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/base/3cloth-config-6.4.90-forge.jar",
+      "hash": "75e5461d9adef754ed77352b520ce44e7bd1ef5b",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/base/3configured-2.0.1-1.18.2.jar",
+      "hash": "825e0e439de2bfabf5d088953eb49c1c04e3e531",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/base/3supermartijn642configlib-1.1.6-forge-mc1.18.jar",
+      "hash": "3ab3caa161f017c7a9ab0cb6f63731e9ef850ef2",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/base/jei-1.18.2-forge-10.2.1.1004.jar",
+      "hash": "1e9a408b0e3e0074db2edcb34d2966099ab5cc0c",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/base/longerlogintimes-1.0.0-mc1.18.jar",
+      "hash": "9d6356edae1738cda582b42ed8c46b99dd7fb2bb",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/base/MemorySweep-1.18.2-0.8.jar",
+      "hash": "57c0ece1a25b4da4ae0209f7c6678ed2395c603a",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/base/worldedit-mod-7.2.10.jar",
+      "hash": "40fc7f7a734ccbd53365bc91c1a17fafcec1965d",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/chms-1.18.2-1-2.jar",
+      "hash": "9eeb504789e14846f2b8b7970b25531e2e65c0ef",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/curios-forge-1.18.2-5.0.9.1.jar",
+      "hash": "bd53353d3222d105cd19589afc9d731ebf362d41",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/fancymenu_forge_2.14.9_MC_1.18.2.jar",
+      "hash": "f1728a10c97dade8d9d7d0c98089b7e755f5e977",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/I18nUpdateMod-3.5.0-all.jar",
+      "hash": "dd8b7ed6ab74dca90dfbd7243c1d2099dc538a9a",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/konkrete_forge_1.6.1_MC_1.18-1.18.2.jar",
+      "hash": "4c9ff71536f4962caaf8a75bdb1762475a064e01",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/kubejs-forge-1802.5.5-build.569.jar",
+      "hash": "ee9bf64beb6ccde483b76147399dd4aae64b631a",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/main/[!]TerraFirmaCraft-Forge-1.18.2-2.2.27.jar",
+      "hash": "4430998889d8b3618443504b655209494822e825",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/main/[Macaw的家具：群峦传说附属]Furniture Compatibility for TFC-1.2-1.18.2-40.2.0.jar",
+      "hash": "1201335ddf999fec6a8a2a2bbe0bbccf1d943c41",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/main/[Macaw的屋顶：群峦传说附属]Roof Compatibility for TFC-1.1-1.18.2-40.1.73.jar",
+      "hash": "ca271182e1e5a7dd2569c65a8e2d5d14c8c77176",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/main/[功能性存储兼容]Functional+TFC+1.18.2-0.0.3.jar",
+      "hash": "3e0e491ce34a01f15555b56e6e2f8f6f7e487e76",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/main/[更多木桶]TFC Item Barrels-1.2.jar",
+      "hash": "d84ea8588e42b700a517add5c4bb55ebfe2afe06",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/main/[更多食物]firmalife-1.2.15.jar",
+      "hash": "b0a9031297e240226adf978567dae65dcf17b076",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/main/[群峦Kubejs]kubejs_tfc-1.18.2-0.5.3.jar",
+      "hash": "3d1d42645774a86ba6681179089328e0f8436474",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/main/[群峦农场]TFC Homestead-1.0.3-1.18.2.jar",
+      "hash": "902bfb815087f2378ea758f09174a2783dd0a26b",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/main/[群峦水壶][个人汉化]TFC Water Flasks-2.0.5.jar",
+      "hash": "29f48cf5c9d75fb9580875a0ec1bacf99805dd5e",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/main/[群峦温度]TFC Ambientall-2.2.0-1.18.2.jar",
+      "hash": "5362100a9aef4c22afc8169dab7b90f2ecdadbb8",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/main/[群峦编辑器]TFCTweaker+1.18.2-0.0.2.jar",
+      "hash": "2bb2d5e9495e95a7fc20030bfb6cbd388c145f66",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/main/[群峦背箱]Barrels 2012-1.0.jar",
+      "hash": "230d1239fe59839f18003a3bfe6d805746273bcb",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/main/[群峦装饰方块]TFC+Decoration+1.18.2-1.1.4.jar",
+      "hash": "c13fa6e7e1dab9939e81eebf20c8db178a48844e",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/main/[群峦金属锻造]TFC Casting With Channels-0.1.6-beta.jar",
+      "hash": "95efba2d62cba2a1df4ca60d4094cd101cb58775",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/main/[群峦铸铁烤架]TFC Cast Iron Grill-1.6.jar",
+      "hash": "ae4a85dcf785d89c31f0b693a5230566469e48e5",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/main/[群峦锦致装饰]TFC Supplementaries-1.1.jar",
+      "hash": "70b569af16e1f5cc265a06f89e26f921dd1f8e62",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/OpenLoader-Forge-1.18.2-12.0.1.jar",
+      "hash": "358ac27631553212dbc88dbd67a94247cf9debaf",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/Patchouli-1.18.2-71.1.jar",
+      "hash": "89e1aa7994794a3476ef6de31461eb1ce78da02d",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/rhino-forge-1802.2.1-build.255.jar",
+      "hash": "75416af83d41e260a0d5a1e9789ba1914ac0bd1b",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "resourcepacks/languagepack.zip",
+      "hash": "814f15adb53e0b60d8678117acdd08b0bcc4ae9a",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "resourcepacks/Minecraft-Mod-Language-Modpack-1-18.zip",
+      "hash": "81f247568e0fb73340896e5d467e49cb25f52a26",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "resources/mainmenu/logo/logo.png",
+      "hash": "253a628b3ca1200fcaf8cdfa94a6214795a9ba31",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "resources/mainmenu/mainmenu/bg.png",
+      "hash": "6142afca5c8a48fdc1c31fc3d2b7fd9481b6b3e7",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "shaderpacks/BSL_v8.2.02.2d.zip",
+      "hash": "ee1a038d3747d1bd0557213e9385f2615d1747b5",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "shaderpacks/ComplementaryShaders_v4.7.1.zip",
+      "hash": "97c5d998d8b551b3b9eaad17cffdbe0d6dd55a22",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "shaderpacks/iterationT 3.0.0.zip",
+      "hash": "ae99bd6331f66227719a77d87512f099eafccfc7",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "shaderpacks/Sildur\u0027s+Vibrant+Shaders+v1.50+High.zip",
+      "hash": "8376609f45c08c56c535a9102bc600111b0b3535",
+      "force": true,
+      "type": "addon"
+    }
+  ],
+  "settings": {
+    "install_mods": true,
+    "install_resourcepack": true
+  },
+  "launchInfo": {
+    "minMemory": 4048,
+    "launchArgument": [],
+    "javaArgument": [
+      "-XX:+UnlockExperimentalVMOptions",
+      "-XX:+UseG1GC",
+      "-XX:+UseStringDeduplication",
+      "-XX:+ExplicitGCInvokesConcurrent",
+      "-XX:+ParallelRefProcEnabled",
+      "-XX:-UseAdaptiveSizePolicy",
+      "-XX:+OmitStackTraceInFastThrow",
+      "-XX:+PerfDisableSharedMem",
+      "-XX:+UseCompressedOops",
+      "-XX:MaxGCPauseMillis\u003d37",
+      "-XX:+PerfDisableSharedMem",
+      "-XX:G1HeapRegionSize\u003d16M",
+      "-XX:G1NewSizePercent\u003d23",
+      "-XX:G1ReservePercent\u003d20",
+      "-XX:SurvivorRatio\u003d32",
+      "-XX:G1MixedGCCountTarget\u003d3",
+      "-XX:G1HeapWastePercent\u003d20",
+      "-XX:InitiatingHeapOccupancyPercent\u003d10",
+      "-XX:G1RSetUpdatingPauseTimePercent\u003d0",
+      "-XX:MaxTenuringThreshold\u003d1",
+      "-XX:G1SATBBufferEnqueueingThresholdPercent\u003d30",
+      "-XX:G1ConcMarkStepDurationMillis\u003d5.0",
+      "-XX:G1ConcRSHotCardLimit\u003d16",
+      "-XX:G1ConcRefinementServiceIntervalMillis\u003d150",
+      "-XX:GCTimeRatio\u003d99",
+      "-Dfile.encoding\u003dUTF-8",
+      "-Dconsole.encoding\u003dUTF-8",
+      "-Dfml.ignorePatchDiscrepancies\u003dtrue",
+      "-Dfml.ignoreInvalidMinecraftCertificates\u003dtrue",
+      "-Dlog4j2.formatMsgNoLookups\u003dtrue",
+      "-Dfml.readTimeout\u003d600000",
+      "-Dfml.connectTimeout\u003d600000"
+    ]
+  }
+}
