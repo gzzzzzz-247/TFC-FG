@@ -1,0 +1,39 @@
+{
+  "death.attack.hypothermia": "%1$s 死于冻死。",
+  "death.attack.hyperthermia": "%1$s 死于中暑。",
+
+  "effect.tfcambiental.cool.name": "降温",
+  "effect.tfcambiental.warm.name": "保暖",
+
+  "item.tfcambiental.straw_hat": "草帽",
+  "item.tfcambiental.leather_apron": "皮围裙",
+
+  "item.tfcambiental.wool_hat": "羊毛帽",
+  "item.tfcambiental.wool_sweater": "羊毛毛衣",
+  "item.tfcambiental.wool_pants": "羊毛裤子",
+  "item.tfcambiental.wool_boots": "羊毛靴子",
+
+  "item.tfcambiental.silk_cowl": "丝绸兜帽",
+  "item.tfcambiental.silk_shirt": "丝绸衬衫",
+  "item.tfcambiental.silk_pants": "丝绸裤子",
+  "item.tfcambiental.silk_shoes": "丝绸鞋子",
+
+  "item.tfcambiental.burlap_cowl": "麻布兜帽",
+  "item.tfcambiental.burlap_shirt": "麻布衬衫",
+  "item.tfcambiental.burlap_pants": "麻布裤子",
+  "item.tfcambiental.burlap_shoes": "麻布鞋子",
+
+  "item.tfcambiental.insulated_leather_hat": "绝缘皮帽",
+  "item.tfcambiental.insulated_leather_tunic": "绝缘皮外套",
+  "item.tfcambiental.insulated_leather_pants": "绝缘皮裤子",
+  "item.tfcambiental.insulated_leather_boots": "绝缘皮靴子",
+
+  "tfcambiental.tooltip.warmth": "保暖度：%s",
+  "tfcambiental.tooltip.insulation": "隔热：%s",
+  "tfcambiental.tooltip.sun_protection": "防晒直射",
+
+  "curios.identifier.clothes_hat": "服装（头部）",
+  "curios.identifier.clothes_torso": "服装（上身）",
+  "curios.identifier.clothes_pants": "服装（腿部）",
+  "curios.identifier.clothes_socks": "服装（脚部）"
+}
