@@ -1,7 +1,0 @@
-type = last_world
-
-last_world {
-  is_server = false
-  world = C:/APP/Minecraft/Ovo/.minecraft/versions/TFC：Forgged/saves/新的世界
-}
-

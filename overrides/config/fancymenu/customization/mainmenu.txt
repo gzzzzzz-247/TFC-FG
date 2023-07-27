@@ -1,0 +1,311 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.screens.TitleScreen
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  path = resources/mainmenu/mainmenu/bg.png
+  action = texturizebackground
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  orientation = top-left
+  x = 14
+  action = movebutton
+  y = 78
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  width = 68
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  action = setbuttonlabel
+  value = 多人游玩
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  seconds = 0.6
+  onlyfirsttime = false
+  fadein = true
+  fadeinspeed = 1.0
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_accessibility_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  orientation = top-left
+  x = 14
+  action = movebutton
+  y = 98
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  width = 68
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  action = setbuttonlabel
+  value = 设置
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  seconds = 0.9
+  onlyfirsttime = false
+  fadein = true
+  fadeinspeed = 1.0
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  orientation = top-left
+  x = 14
+  action = movebutton
+  y = 157
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  width = 68
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  seconds = 2.1
+  onlyfirsttime = false
+  fadein = true
+  fadeinspeed = 1.0
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_copyright_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
+  orientation = top-left
+  x = 20
+  action = movebutton
+  y = 75
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
+  width = 88
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  orientation = top-left
+  x = 14
+  action = movebutton
+  y = 58
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  width = 68
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  action = setbuttonlabel
+  value = 单人游玩
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  seconds = 0.3
+  onlyfirsttime = false
+  fadein = true
+  fadeinspeed = 1.0
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=button_compatibility_id:forge_titlescreen_mods_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:forge_titlescreen_mods_button%
+  orientation = top-left
+  x = 20
+  action = movebutton
+  y = 105
+}
+
+customization {
+  identifier = %id=button_compatibility_id:forge_titlescreen_mods_button%
+  width = 88
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=376346%
+  action = hidebutton
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 186
+  width = 268
+  action = deep_customization_element:title_screen_forge_top
+  actionid = 6810742f-30dc-471f-b9ea-06e0cf07cc111664276309368
+  y = 4
+  height = 19
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  x = 2
+  width = 243
+  action = deep_customization_element:title_screen_branding
+  actionid = cedf10cc-b36d-43c1-9abc-e93981113c1c1664276309382
+  y = 272
+  height = 20
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 411
+  width = 228
+  action = deep_customization_element:title_screen_forge_copyright
+  actionid = 609cab3a-d5de-4d95-8138-c3e7d0c0cfee1664276309382
+  y = 314
+  height = 9
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 423
+  width = 13
+  action = deep_customization_element:title_screen_realms_notification
+  actionid = 136a6b6d-46aa-470c-8d1a-a7eab1d6b61d1664276309382
+  y = 183
+  height = 13
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 183
+  width = 274
+  action = deep_customization_element:title_screen_logo
+  actionid = e96b316b-f7d8-46d7-a96a-2a99dd0b78341664276309383
+  y = 30
+  height = 52
+}
+
+customization {
+  orientation = original
+  splash_color = #ffff00
+  hidden = true
+  x = 0
+  width = 60
+  splash_rotation = -20
+  action = deep_customization_element:title_screen_splash
+  actionid = 3606bf81-7406-428b-a4b7-9b1a63a740b01664276309383
+  y = 0
+  height = 30
+}
+
+customization {
+  orientation = top-left
+  restartbackgroundanimations = true
+  delayappearanceseconds = 1.5
+  buttonaction = openlink;;%btnaction_splitter_fm%
+  label = 维基百科
+  loopbackgroundanimations = true
+  fadein = true
+  fadeinspeed = 1.0
+  x = 14
+  width = 68
+  action = addbutton
+  actionid = 60c6b3f3-296f-4c60-8b83-5dd38df5c1251645545704009
+  y = 117
+  delayappearance = true
+  delayappearanceeverytime = true
+  height = 20
+}
+
+customization {
+  orientation = top-left
+  restartbackgroundanimations = true
+  delayappearanceseconds = 1.8
+  buttonaction = openlink;https://afdian.net/a/gzzzzz%btnaction_splitter_fm%
+  label = 爱发电
+  loopbackgroundanimations = true
+  fadein = true
+  fadeinspeed = 1.0
+  x = 14
+  width = 68
+  action = addbutton
+  actionid = e5fdb2b8-29aa-4ae2-8f3f-be7283143c1c1645545746509
+  y = 137
+  delayappearance = true
+  delayappearanceeverytime = true
+  height = 20
+}
+
+customization {
+  path = resources/mainmenu/logo/logo.png
+  orientation = top-left
+  x = 88
+  width = 103
+  action = addtexture
+  actionid = 7f83b08b-da16-4588-be2c-d96e47ec77ec1690269038008
+  y = 59
+  height = 100
+}
+
