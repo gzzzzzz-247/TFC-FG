@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "TFC：Forgged",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "",
   "files": [
     {
@@ -62,6 +62,11 @@
     {
       "projectID": 556861,
       "fileID": 4324179,
+      "required": true
+    },
+    {
+      "projectID": 293426,
+      "fileID": 4655485,
       "required": true
     },
     {
@@ -132,6 +137,11 @@
     {
       "projectID": 419176,
       "fileID": 4376152,
+      "required": true
+    },
+    {
+      "projectID": 293425,
+      "fileID": 4653691,
       "required": true
     },
     {
@@ -220,6 +230,16 @@
       "required": true
     },
     {
+      "projectID": 486392,
+      "fileID": 4341461,
+      "required": true
+    },
+    {
+      "projectID": 328085,
+      "fileID": 4625533,
+      "required": true
+    },
+    {
       "projectID": 397746,
       "fileID": 4428281,
       "required": true
@@ -265,6 +285,11 @@
       "required": true
     },
     {
+      "projectID": 585406,
+      "fileID": 4365860,
+      "required": true
+    },
+    {
       "projectID": 287342,
       "fileID": 4484519,
       "required": true
@@ -277,6 +302,11 @@
     {
       "projectID": 714127,
       "fileID": 4127853,
+      "required": true
+    },
+    {
+      "projectID": 340666,
+      "fileID": 4238585,
       "required": true
     },
     {
